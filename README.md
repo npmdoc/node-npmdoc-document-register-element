@@ -1,4 +1,7 @@
-# api documentation for  [document-register-element (v1.4.1)](https://github.com/WebReflection/document-register-element)  [![npm package](https://img.shields.io/npm/v/npmdoc-document-register-element.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-document-register-element) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-document-register-element.svg)](https://travis-ci.org/npmdoc/node-npmdoc-document-register-element)
+# npmdoc-document-register-element
+
+#### basic api documentation for  [document-register-element (v1.4.1)](https://github.com/WebReflection/document-register-element)  [![npm package](https://img.shields.io/npm/v/npmdoc-document-register-element.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-document-register-element) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-document-register-element.svg)](https://travis-ci.org/npmdoc/node-npmdoc-document-register-element)
+
 #### A stand-alone working lightweight version of the W3C Custom Elements specification
 
 [![NPM](https://nodei.co/npm/document-register-element.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/document-register-element)
@@ -71,7 +74,8 @@
         "test": "phantomjs testrunner.js",
         "web": "node node_modules/tiny-cdn/tiny-cdn run -p=1337"
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "bin": {}
 }
 ```
 
